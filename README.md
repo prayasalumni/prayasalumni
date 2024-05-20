@@ -23,8 +23,8 @@ Thank you for joining our WhatsApp group! Together, let's make our alumni networ
 
 Best regards,
 Prayas Alumni
-
-Guys!! Now we have create the login and signup pages for invidual alumni which redirect them to their persom=nal home page. where they can find their personal information such as name belong , experience, education qualification, skills and their personal journey
+_
+**Guys!! Now we have create the login and signup pages for invidual alumni which redirect them to their persom=nal home page. where they can find their personal information such as name belong , experience, education qualification, skills and their personal journey**_
 <!--
 **prayasalumni/prayasalumni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
